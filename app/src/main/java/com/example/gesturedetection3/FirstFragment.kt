@@ -3,13 +3,12 @@ package com.example.gesturedetection3
 import android.os.Bundle
 import android.util.Log
 import android.view.GestureDetector
-import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.MotionEvent
 import android.view.View
 import android.view.ViewGroup
-import androidx.constraintlayout.widget.ConstraintLayout
 import androidx.core.view.GestureDetectorCompat
+import androidx.fragment.app.Fragment
 import androidx.navigation.fragment.findNavController
 import com.example.gesturedetection3.databinding.FragmentFirstBinding
 
